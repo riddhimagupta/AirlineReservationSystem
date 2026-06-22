@@ -1,0 +1,42 @@
+[
+    {
+        "ticket_id": "T5024",
+        "passenger_name": "Riddhima",
+        "seat_no": 1,
+        "priority": 1,
+        "route_id": 1,
+        "source": "Indore",
+        "destination": "Mumbai",
+        "booking_time": "22-06-2026 00:41:05"
+    },
+    {
+        "ticket_id": "T1572",
+        "passenger_name": "Riddhima",
+        "seat_no": 1,
+        "priority": 1,
+        "route_id": 785,
+        "source": "india",
+        "destination": "mauritious",
+        "booking_time": "22-06-2026 01:30:52"
+    },
+    {
+        "ticket_id": "T4515",
+        "passenger_name": "Riddhima Gupta",
+        "seat_no": 1,
+        "priority": 1,
+        "route_id": 102,
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "booking_time": "22-06-2026 01:44:01"
+    },
+    {
+        "ticket_id": "T4456",
+        "passenger_name": "Riddhima",
+        "seat_no": 1,
+        "priority": 1,
+        "route_id": 785,
+        "source": "india",
+        "destination": "mauritious",
+        "booking_time": "22-06-2026 01:49:21"
+    }
+]

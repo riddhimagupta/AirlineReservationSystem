@@ -1,0 +1,30 @@
+[
+    {
+        "route_id": 785,
+        "source": "india",
+        "destination": "mauritious",
+        "distance": 1000,
+        "travel_time": "12hrs"
+    },
+    {
+        "route_id": 1,
+        "source": "Indore",
+        "destination": "Mumbai",
+        "distance": 600,
+        "travel_time": "2 hrs"
+    },
+    {
+        "route_id": 102,
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "distance": 900,
+        "travel_time": "2 hrs"
+    },
+    {
+        "route_id": 103,
+        "source": "Udaipur",
+        "destination": "Delhi",
+        "distance": 500,
+        "travel_time": "1 hr"
+    }
+]
